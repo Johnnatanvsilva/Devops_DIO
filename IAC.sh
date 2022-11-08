@@ -2,7 +2,7 @@
 # Johnnatan Silva
 
 
-echo "Criando diretorios...
+echo "Criando diretorios..."
 mkdir /publico
 mkdir /adm
 mkdir /ven
